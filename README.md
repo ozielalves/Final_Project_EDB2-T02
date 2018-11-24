@@ -7,6 +7,6 @@ Implementation Project: Binary Search Trees
  2. Prefix tree
  3. K-d Tree
 
-Program developed by [_Oziel Alves_](https://github.com/ozielalves) (*ozielalves@ufrn.edu.br*), [Jonas Rocha](https://github.com/jonasra4) and [Doulgas Santos](), 2018.2
+Program developed by [_Oziel Alves_](https://github.com/ozielalves) (*ozielalves@ufrn.edu.br*), [Jonas Rocha](https://github.com/jonasra4) (*jonasra4@gmail.com*) and [Doulgas Santos]() (**), 2018.2
 
 &copy; IMD/UFRN 2018.
